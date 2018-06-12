@@ -1,0 +1,1 @@
+Flips a coin with a 50% chance to return true or false

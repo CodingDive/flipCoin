@@ -1,0 +1,30 @@
+{
+  "name": "flipcoin",
+  "version": "1.0.0",
+  "description": "Flips a coin with a 50/50 chance to return true or false.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReasonableDeveloper/flipCoin.git"
+  },
+  "keywords": [
+    "flipcoin",
+    "flip",
+    "a",
+    "coin",
+    "boolean",
+    "true",
+    "false",
+    "50%",
+    "random"
+  ],
+  "author": "Mikey Stengel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ReasonableDeveloper/flipCoin/issues"
+  },
+  "homepage": "https://github.com/ReasonableDeveloper/flipCoin#readme"
+}
